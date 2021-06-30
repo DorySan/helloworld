@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: homelaba1675
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_86A04D5137BB48339A070D2015FF7431 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D94FF14775B429F94493F8BCE70D463 }}
 
